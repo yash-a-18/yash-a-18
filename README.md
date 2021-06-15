@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on `OpenCV package in python`
-- 🌱 I’m currently learning Image processing
+- 🔭 I’m currently working on Image processing
+- 🌱 I’m currently learning `OpenCV package in python`
 - 👯 I’m looking to collaborate on Research paper
 - 💬 Ask me about python and django
 - 📫 How to reach me: Mail me at *yashamethiya2001@gmail.com*
