@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Image processing
+- 🔭 I’m currently working on Random number generation
 - 🌱 I’m currently learning `OpenCV package in python`
 - 👯 I’m looking to collaborate on Research paper
 - 💬 Ask me about python and django
