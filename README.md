@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on standalone application
-- 🌱 I’m currently learning `Sacla3 and Zio`
+- 🌱 I’m currently learning `Scala3 and Zio`
 - 👯 I’m looking to collaborate on Research paper
 - 💬 Ask me about scala and zio
 - 📫 How to reach me: Mail me at *yashamethiya2001@gmail.com*
