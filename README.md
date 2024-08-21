@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Table detection and Tabular data extraction
-- 🌱 I’m currently learning `OpenCV package in python`
+- 🔭 I’m currently working on standalone application
+- 🌱 I’m currently learning `Sacla3 and Zio`
 - 👯 I’m looking to collaborate on Research paper
-- 💬 Ask me about python and django
+- 💬 Ask me about scala and zio
 - 📫 How to reach me: Mail me at *yashamethiya2001@gmail.com*
 
 <h4>🛠️ Tools and Technologies:</h4>
